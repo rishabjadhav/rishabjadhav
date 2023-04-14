@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishabjadhav
 - 👀 I’m interested in learning R/Jupyter Notebook/SQL/Python
-- 🌱 I’m currently learning the Swift programming language on XCode and Jupyter Notebook for Python.
+- 🌱 I’m currently learning Swift on XCode and Jupyter Notebook/Pandas for Python.
 - 📫 How to reach me : rishabjadhav@gmail.com
 
 <!---
