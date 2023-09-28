@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishabjadhav
 - 👀 I’m interested in learning R/SQL/TensorFlow.
-- 🌱 I’m currently learning Natural Language Processing (NLP).
+- 🌱 I’m currently learning Python/Machine Learning.
 - 📫 How to reach me : rishabjadhav@gmail.com
 
 <!---
