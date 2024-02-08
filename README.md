@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishabjadhav
-- 👀 I’m interested in learning R/SQL/TensorFlow.
-- 🌱 I’m currently learning Python Pandas & skLearn ML.
+- 👀 I’m interested in learning TensorFlow/MongoDB.
+- 🌱 I’m currently learning ML/Data Analytics tools.
 - 📫 How to reach me : rishabjadhav@gmail.com
 
 <!---
