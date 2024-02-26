@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rishabjadhav
-- 👀 I’m interested in learning TensorFlow/MongoDB.
+- 👀 I’m interested in learning PyTorch/TensorFlow/MongoDB/SQL Databases
 - 🌱 I’m currently learning ML/Data Analytics tools.
 - 📫 How to reach me : rishabjadhav@gmail.com
 
