@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishabjadhav
-- 👀 I’m interested in learning BI tools, SQL/NoSQL Databases
-- 🌱 I’m currently learning ML/Data Analytics tools.
+- 👀 I’m interested in learning everything
+- 🌱 I’m currently learning what I can
 - 📫 How to reach me : rishabjadhav@gmail.com
 
 <!---
